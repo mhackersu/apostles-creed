@@ -927,3 +927,6 @@ Merriam Webster Dictionary, 2022
 Wikipedia, 2022
 
 Martin Luther
+
+[The Dates of Easter Sunday -- Panos Antsaklis
+Notre Dame, Indiana](https://www3.nd.edu/~pantsakl/Archive/dateofeaster.pdf)
