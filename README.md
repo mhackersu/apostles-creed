@@ -1,4 +1,4 @@
-**V0.7.0**
+**V0.8.0**
 
 *This paper presents the historic statement of beliefs that is the
 Apostles' Creed, and its biblical influence, one of each the twelve
@@ -170,13 +170,19 @@ persecution.*
 
 **Council of Nicaea**
 
+*The Nicene Creed was developed at the council of Niceia, or First Council of Nicaea, which was a council of Christian bishops and was convened in the Bithynian city of Nicaea (now İznik, Turkey) by the Roman Emperor Constantine I in AD 325.*
+
 *Originally, the Nicene Creed was developed in response to the heretical
 beliefs about Jesus being spread by a Christian leader named Arius. The
 Catholic bishops, pope, and the Emperor Constantine gathered to affirm
 the Church\'s beliefs about the one God who is Father, Son, and Holy
 Spirit. The Nicene Creed is very descriptive about Jesus\'s humanity and
 divinity because it was formulated in response to misguided teachings of
-Arius and other heresies. The Apostles Creed includes two phrases that
+Arius and other heresies.*
+
+*A priest named Arius presented his argument that Jesus Christ was not an eternal being, that He was created at a certain point in time by the Father. Bishops such as Alexander and the deacon Athanasius argued the opposite position: that Jesus Christ is eternal, just like the Father is. It was an argument pitting trinitarianism against monarchianism. Constantine prodded the 300 bishops in the council to make a decision by majority vote defining who Jesus Christ is. The statement of doctrine they produced was one that all of Christianity would follow and obey, called the “Nicene Creed.” This creed was upheld by the church and enforced by the Emperor. The bishops at Nicea voted to make the full deity of Christ the accepted position of the church. The Council of Nicea upheld the doctrine of Christ’s true divinity, rejecting Arius’s heresy. The council did not invent this doctrine. Rather, it only recognized what the Bible already taught.*
+
+*It is important to note that the Apostles Creed includes two phrases that
 are not found in the Nicene Creed.* First, \"He descended into hell\"
 and second, \"the communion of saints\"
 
@@ -236,11 +242,11 @@ and it was credited to him as righteousness."
 
 *Abraham was saved by faith; Before Moses, the law, organized religion.*
 
-1a. **the Father almighty**
+[I believe in] 1a. **the Father almighty**
 
 *El Shaddai, the Father Almighty*
 
-1b. **creator of heaven and earth**
+[I believe in] 1b. **the creator of heaven and earth**
 
 *The story of the Creation of the World starts at the beginning of the
 bible.*
@@ -257,7 +263,7 @@ of the earth;
 
 and the heavens are the works of thine hands:
 
-2\. **and in Jesus Christ, His only begotton Son, our Lord,**
+[I believe in] 2\. **Jesus Christ, His only begotton Son, our Lord,**
 
 **1 Pet 2:21** For to this you have been called, because Christ also
 *suffered* for you, leaving you an example, so that you might follow in
@@ -329,7 +335,7 @@ Jesus from the dead dwells in you, He who raised Christ Jesus from the
 dead will also give life to your mortal bodies through His Spirit who
 dwells in you.
 
-3\. **who was conceived by the Holy Spirit**
+[I believe that in He] 3\. **who was conceived by the Holy Spirit**
 
 -   Jesus declares Himself Lord of the Sabbath
 
@@ -405,7 +411,7 @@ call him Lord and God. But let us not come with any patronizing nonsense
 about his being a great moral teacher. He has not left that open to us.
 He did not intend to."
 
-3a. **born of the Virgin Mary**
+[I believe that He was] 3a. **born of the Virgin Mary**
 
 *Jesus was conceived via immaculate conception and was born as a son,
 that of Mary, a virgin that had not known a man, and was highly-favored
@@ -433,7 +439,7 @@ thou among
 
 women, and blessed is the fruit of thy womb.
 
-4\. **suffered under Pontius Pilate, was crucified, died, and buried**
+[I believe that] 4\. **suffered under Pontius Pilate, was crucified, died, and buried**
 
 *When the Jews brought Jesus to Pilate, three separate times, he said,
 "I find no fault in this man." Additionally Romans nor the Jews took His
@@ -567,7 +573,7 @@ blood he entered
 
 in once into the holy place, having obtained eternal redemption for us.
 
-5\. **descended into hell, the third day he rose from the dead**
+[I believe that He] 5\. **descended into hell, and on the third day he rose from the dead**
 
 *\* Jesus descended but was [not seperated from the Father]{.ul}. He was
 working with the Father, to fulfill The Father's plan, to bear our sins
@@ -655,7 +661,7 @@ and shalt believe*
 *in thine heart that God hath raised him from the dead, thou shalt be
 saved.*
 
-6\. **He ascended into heaven and is seated at the right hand of God the
+[I believe that] 6\. **He ascended into heaven and is seated at the right hand of God the
 Father almighty**
 
 **Act 1:1-7** The former treatise have I made, O Theophilus, of all that
@@ -702,7 +708,7 @@ at his own right hand in the heavenly places,
 heavenly places\
 in Christ Jesus:
 
-7\. **from there, He will come to judge the quick and the dead**
+[I believe that] 7\. **from there, He will come to judge the quick and the dead**
 
 *The first people to use the word quick did not have speed in mind at
 all. The phrase \"the quick and the dead\" gives a clue about what they
@@ -736,7 +742,7 @@ quick and the dead.
 shout, with the voice of the archangel, and with the trump of God: and
 the dead in Christ shall rise first.
 
-8\. **I believe in the Holy Spirit**
+[I believe in] 8\. **the Holy Spirit**
 
 *Paraclete (Ancient Greek: παράκλητος, Latin: paracletus) means
 \'advocate\' or \'helper\'. In Christianity, the term paraclete most
@@ -773,7 +779,7 @@ guide you into all truth: for he shall not speak of himself; but
 whatsoever he shall hear, that shall he speak: and he will shew you
 things to come.
 
-9a. **the Holy Catholic Church**
+[I believe in] 9a. **the Holy Catholic Church**
 
 *The word catholic comes from the Greek phrase καθόλου katholou \'on the
 whole, according to the whole, in general\', and is a combination of the
@@ -900,13 +906,25 @@ the communion of the body of Christ?*
 ***1 Cor 1:9** God is faithful, by whom ye were called unto the
 fellowship of his Son Jesus Christ our Lord.*
 
-10\. **the forgiveness of sins,**
+[I believe in] 10\. **the forgiveness of sins,**
 
-11\. **the resurrection of the body**
+*No matter what is in our past, He is faithful to forgive if we confess.*
+
+***1 Jhn 1:19** If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.*
+
+[I believe in] 11\. **the resurrection of the body**
 
 Paradise, paraiso
 
-12\. **and the life everlasting. Amen.**
+***Romans 6:5** For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection*
+
+***1 Cor 15:19** If in this life only we have hope in Christ, we are of all men most miserable.*
+
+***1 Cor 51:56** Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, 52 In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. 53 For this corruptible must put on incorruption, and this mortal must put on immortality. 54 So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. 55 O death, where is thy sting? O grave, where is thy victory? 56 The sting of death is sin; and the strength of sin is the law. 57 But thanks be to God, which giveth us the victory through our Lord Jesus Christ.*
+
+[I believe in] 12\. **the life everlasting. Amen.**
+
+***John 3:16** For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.*
 
 **Sources**
 
