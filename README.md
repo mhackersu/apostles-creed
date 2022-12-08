@@ -812,23 +812,20 @@ Paradise, paraiso
 
 ### Sources 
 
-Since You Asked Podcast - Jim Berrier (CGM Radio)
+- The Apostles' Creed - Grace Communion International
 
-[The Apostles' Creed - Grace Communion
-International](https://www.gci.org/articles/the-apostles-creed/)
+- Constantine the Great and Christianity - Wikipedia
 
-Constantine the Great and Christianity - Wikipedia
+- The Apostles Creed vs. Nicene Creed -- The Religion Teacher (YouTube)
 
-The Apostles Creed vs. Nicene Creed -- The Religion Teacher
-([YouTube](https://www.youtube.com/watch?v=dH5StNyn0gY&t=2s))
+- Since You Asked Podcast - Jim Berrier (CGM Radio)
 
-Mere Christianity -- C.S. Lewis
+- Mere Christianity -- C.S. Lewis
 
-Merriam Webster Dictionary, 2022
+- Merriam Webster Dictionary, 2022
 
-Wikipedia, 2022
+- Martin Luther
 
-Martin Luther
+- The Dates of Easter Sunday -- Panos Antsaklis, Notre Dame, Indiana
 
-[The Dates of Easter Sunday -- Panos Antsaklis
-Notre Dame, Indiana](https://www3.nd.edu/~pantsakl/Archive/dateofeaster.pdf)
+- Wikipedia, 2022
