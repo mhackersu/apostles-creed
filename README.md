@@ -1,4 +1,4 @@
-**V0.8.1**
+**V0.9.0**
 
 *This paper presents the historic statement of beliefs that is the
 Apostles' Creed, and its biblical influence, one of each the twelve
