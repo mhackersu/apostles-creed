@@ -128,32 +128,25 @@ world. Amen.
 ## Timeline 
 *(historical context in italics)*
 
-**200**
+**200** **Irenaeus describes a creed**
 
-Irenaeus describes a creed
+Has some similarities to the Apostles' Creed.
+*(May have been a bit of a precurser)*
 
-**Has some similarities to the Apostles' Creed.** (*May have been a bit
-of a precurser)*
+**220** **Early Latin version**
 
-**220**
+*Tertullian in North Africa publishes a version*
 
-**Tertullian writes an early Latin version of the Creed in North
-Africa**
+**235** **Fall of the Severan Dynasty** 
 
-**235**
+*Christian persecutation "begins".*
 
-**Fall of the Severan Dynasty (*Persecutation begins*)**
-
-**311** (*April*)
-
-**Galerius's Edict of Toleration *(Edict of Serdica)***
+**311** *(April)* **Galerius's Edict of Toleration** *(Edict of Serdica)*
 
 *The Edict implicitly granted Christianity the status of religio licita,
 a worship that was recognized and accepted by the Roman Empire.*
 
-**313** (*Feburary*)
-
-**Edict of Milan**
+**313** *(Feburary)* **Edict of Milan**
 
 *The agreement to treat Christians benevolently within the Roman Empire.
 Western Roman Emperor Constantine I and Emperor Licinius, who controlled
@@ -163,17 +156,11 @@ of toleration issued by Emperor Galerius two years earlier in Serdica.
 The Edict of Milan gave Christianity legal status and a reprieve from
 persecution.*
 
-**313** (*June*)
+**313** *(June)* - **Licinius's Letter**
 
-**Licinius's Letter**
+**330** - **Marcellus, from Asia Minor, pens a similar creed**
 
-**330**
-
-**Marcellus, from Asia Minor, pens a similar creed**
-
-**325**
-
-**Council of Nicaea**
+**325** - **Council of Nicaea**
 
 *The Nicene Creed was developed at the council of Niceia, or First Council of Nicaea, which was a council of Christian bishops and was convened in the Bithynian city of Nicaea (now İznik, Turkey) by the Roman Emperor Constantine I in AD 325.*
 
@@ -191,13 +178,9 @@ Arius and other heresies.*
 are not found in the Nicene Creed.* First, \"He descended into hell\"
 and second, \"the communion of saints\"
 
-**340**
+**340** **First penned version of the Apostles' Creed**
 
-**First penned version of the Apostles' Creed**
-
-**380** (*February*)
-
-**Edict of Thessalonica**
+**380** *(February)* **Edict of Thessalonica**
 
 *The edict was followed in 381 by the First Council of Constantinople,
 which affirmed the Nicene Symbolum and gave final form to the
@@ -215,30 +198,23 @@ The Edict of Thessalonica goes much further and declares \"the Father,
 the Son and the Holy Spirit\" to be \"one deity \... in equal majesty
 and in a holy Trinity.\"*
 
-**381**
+**381** **Council of Constantinople**
 
-**Council of Constantinople**
+Condemmed Arianism as heresies of "foolish madmen".
+*(authorized punishment)*
 
-Condemmed Arianism as heresies of "foolish madmen" (a*uthorized
-punishment*)
+**390** **Rufinus writes a similar creed after study in Rome, Egypt, and Judea**
 
-**390**
+**397** **New Testament is Cannonized**
 
-**Rufinus writes a similar creed after study in Rome, Egypt, and Judea**
+**650** **Creed is standard in Gaul** 
+*(Gaul is modern day France)* 
+*Augustine, a bishop in North Africa, reports*
 
-**397**
+**750** **Modern Accepted Text**
 
-**New Testament is Cannonized**
-
-**650**
-
-**Creed is standard in Gaul *(Modern day France)*** *Augustine, a bishop
-in North Africa, reports*
-
-**750**
-
-**The modern accepted text is penned by Pirminius from what is not
-modern day Switzerland**
+The modern accepted text is penned by Pirminius from what is not
+modern day Switzerland
 
 ## The Apostles' Creed
 
@@ -266,9 +242,7 @@ thing made that was made.
 *Reference to the word which is Christ.*
 
 **Heb 1:10** And, Thou, Lord, in the beginning hast laid the foundation
-of the earth;
-
-and the heavens are the works of thine hands:
+of the earth; and the heavens are the works of thine hands:
 
 ### [I believe in] 2\. **Jesus Christ, His only begotton Son, our Lord,**
 
@@ -344,7 +318,7 @@ dwells in you.
 
 ### [I believe that in He] 3\. **who was conceived by the Holy Spirit**
 
--   Jesus declares Himself Lord of the Sabbath
+*Jesus declares Himself Lord of the Sabbath.*
 
 **Mat 12:8** For the Son of man is Lord even of the sabbath day.
 
@@ -353,14 +327,14 @@ dwells in you.
 **Luk 6:5** And he said unto them, That the Son of man is Lord also of
 the sabbath.
 
--   He allowed people to worship Him
+*Jesus allowed people to worship Him*
 
 **Rev 22:8** And I John saw these things, and heard them. And when I had
 heard and seen, I fell down to worship before the feet of the angel
 which shewed me these things. 9 Then saith he unto me, See thou do it
 not: for I am thy fellowservant.
 
--   He is worthy of worship
+*Jesus is worthy of worship*
 
 **Luk 1:35** And the angel answered and said unto her, The Holy Ghost
 shall come upon thee, and the power of the Highest shall overshadow
@@ -368,15 +342,11 @@ thee: therefore also that holy thing which shall be born of thee shall
 be called the Son of God.
 
 **Jhn 18:36** Jesus answered, My kingdom is not of this world: if my
-kingdom were of
-
-this world, then would my servants fight, that I should not be delivered
-to the
-
-Jews: but now is my kingdom not from hence. *(Jesus is worthy of
+kingdom were of this world, then would my servants fight, that I should not be delivered
+to the Jews: but now is my kingdom not from hence. *(Jesus is worthy of
 worship)*
 
-**Rev 22:13** I am Alpha and Omega, the beginning and the end, the first
+**Rev 22:13** I am Alpha and Omega, the beginning and the end, the first
 and the last.
 
 **Isa 44:1-7** 1 Yet now hear, O Jacob my servant; and Israel, whom I
@@ -392,19 +362,17 @@ surname himself by the name of Israel. 6 Thus saith the LORD the King of
 Israel, and his redeemer the LORD of hosts; I am the first, and I am the
 last; and beside me there is no God. 7 And who, as I, shall call, and
 shall declare it, and set it in order for me, since I appointed the
-ancient people? and the things that are coming, and
+ancient people? and the things that are coming, and shall come, let them shew unto them.
 
-shall come, let them shew unto them.
+*Jesus to be greater than Moses, Abraham, and Jacob.*
 
--   *Jesus to be greater than Moses, Abraham, and Jacob.*
+*Jesus claimed to be greater than the Sabbath and the Law.*
 
--   *Jesus claimed to be greater than the Sabbath and the Law.*
+*Jesus claimed to exist before the world began.*
 
--   *Jesus claimed to exist before the world began.*
+*Jesus claimed to be equal to God.*
 
--   *Jesus claimed to be equal to God.*
-
--   *Jesus was either a lunatic, a liar, or Lord.*
+*Jesus was either a lunatic, a liar, or Lord.*
 
 **C.S. Lewis**
 
@@ -425,26 +393,18 @@ that of Mary, a virgin that had not known a man, and was highly-favored
 with the Lord and among women.*
 
 **Luk 1:28** And the angel came in unto her, and said, Hail, thou that
-art highly
-
-favoured, the Lord is with thee: blessed art thou among women.
+art highly favoured, the Lord is with thee: blessed art thou among women.
 
 **Luk 1:30-31** And the angel said unto her, Fear not, Mary: for thou
 hast found favour with God. 31 And, behold, thou shalt conceive in thy
 womb, and bring forth a son, and shalt call his name JESUS.
 
 **Luk 1:35** And the angel answered and said unto her, The Holy Ghost
-shall come upon
-
-thee, and the power of the Highest shall overshadow thee: therefore also
-that
-
-holy thing which shall be born of thee shall be called the Son of God.
+shall come upon thee, and the power of the Highest shall overshadow thee: therefore also
+that holy thing which shall be born of thee shall be called the Son of God.
 
 **Luk 1:42** And she spake out with a loud voice, and said, Blessed art
-thou among
-
-women, and blessed is the fruit of thy womb.
+thou among women, and blessed is the fruit of thy womb.
 
 ### [I believe that] 4\. **suffered under Pontius Pilate, was crucified, died, and buried**
 
@@ -453,23 +413,15 @@ women, and blessed is the fruit of thy womb.
 life, but He laid it down on His own.*
 
 **Jhn 18:38** Pilate saith unto him, What is truth? And when he had said
-this, he went
-
-out again unto the Jews, and saith unto them, I find in him no fault at
+this, he went out again unto the Jews, and saith unto them, I find in him no fault at
 all.
 
 **Jhn 19:4** Pilate therefore went forth again, and saith unto them,
-Behold, I bring him
-
-forth to you, that ye may know that I find no fault in him.
+Behold, I bring him forth to you, that ye may know that I find no fault in him.
 
 **Jhn 19:6** When the chief priests therefore and officers saw him, they
-cried out,
-
-saying, Crucify him, crucify him. Pilate saith unto them, Take ye him,
-and
-
-crucify him: for I find no fault in him.
+cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take ye him,
+and crucify him: for I find no fault in him.
 
 **Why did Jesus have to die?**
 
@@ -493,76 +445,52 @@ centurion, and they that were with him, watching Jesus, saw the
 earthquake, and those things that were done, they feared greatly,
 saying, Truly this was the Son of God.
 
-**Heb 10**
+**Heb 10** For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect. 2 For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins. 3 But in those sacrifices there is a remembrance again made of sins every year. 4 For it is not possible that the blood of bulls and of goats should take away sins. 5 Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me: 6 In burnt offerings and sacrifices for sin thou hast had no pleasure. 7 Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God. 8 Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law; 9 Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second. 10 By the which will we are sanctified through the offering of the body of Jesus Christ once for all.
+11 And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins: 12 But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God; 13 From henceforth expecting till his enemies be made his footstool. 14 For by one offering he hath perfected for ever them that are sanctified. 15 Whereof the Holy Ghost also is a witness to us: for after that he had said before,
+16 This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them; 17 And their sins and iniquities will I remember no more. 18 Now where remission of these is, there is no more offering for sin. 19 Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus, 20 By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh; 21 And having an high priest over the house of God; 22 Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water. 23 Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;) 24 And let us consider one another to provoke unto love and to good works: 25 Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching. 26 For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins, 27 But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries. 28 He that despised Moses' law died without mercy under two or three witnesses: 29 Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace? 30 For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people. 31 It is a fearful thing to fall into the hands of the living God. 32 But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions; 33 Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used. 34 For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance. 35 Cast not away therefore your confidence, which hath great recompence of reward. 36 For ye have need of patience, that, after ye have done the will of God, ye might receive the promise. 37 For yet a little while, and he that shall come will come, and will not tarry. 38 Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him. 39 But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
 
 *Jesus became our atonement -- "For the law having a shadow of good..."
 Historically, blood was shed an ancient times to cover the sins of the
 people with the atonement of a spotless animal sacrifice.*
 
 **Jhn 1:29** The next day John seeth Jesus coming unto him, and saith,
-Behold the Lamb
-
-of God, which taketh away the sin of the world.
+Behold the Lamb of God, which taketh away the sin of the world.
 
 **Lev 17:11** For the life of the flesh is in the blood: and I have
-given it to you upon
-
-the altar to make an atonement for your souls: for it is the blood that
-maketh
-
-an atonement for the soul.
+given it to you upon the altar to make an atonement for your souls: for it is the blood that
+maketh an atonement for the soul.
 
 **Mrk 12:30** And thou shalt love the Lord thy God with all thy heart,
-and with all thy
-
-soul, and with all thy mind, and with all thy strength: this is the
-first
-
-commandment.
+and with all thy soul, and with all thy mind, and with all thy strength: this is the
+first commandment.
 
 **Rom 3:25** Whom God hath set forth to be a propitiation through faith
-in his blood,
-
-to declare his righteousness for the remission of sins that are past,
-through
-
-the forbearance of God;
+in his blood, to declare his righteousness for the remission of sins that are past,
+through the forbearance of God;
 
 **Heb 2:18** For in that he himself hath suffered being tempted, he is
-able to succour
-
-them that are tempted.
+able to succour them that are tempted.
 
 **1 Jhn 2:2** And he is the propitiation for our sins: and not for ours
-only, but also
-
-for the sins of the whole world.
+only, but also for the sins of the whole world.
 
 **1 Jhn 4:10** Herein is love, not that we loved God, but that he loved
-us, and sent his
-
-Son to be the propitiation for our sins.
+us, and sent his Son to be the propitiation for our sins.
 
 **Heb 9:1-12** Then verily the first covenant had also ordinances of
-divine service, and a
-
-worldly sanctuary. 2 For there was a tabernacle made; the first, wherein
+divine service, and a worldly sanctuary. 2 For there was a tabernacle made; the first, wherein
 was the candlestick, and the table, and the shewbread; which is called
 the sanctuary. 3 And after the second veil, the tabernacle which is
 called the Holiest of all; 4 Which had the golden censer, and the ark of
 the covenant overlaid round about with gold, wherein was the golden pot
 that had manna, and Aaron\'s rod that budded, and the tables of the
 covenant; 5 And over it the cherubims of glory shadowing the mercyseat;
-of which we
-
-cannot now speak particularly. 6 Now when these things were thus
+of which we cannot now speak particularly. 6 Now when these things were thus
 ordained, the priests went always into the first tabernacle,
 accomplishing the service of God.
 
 7 But into the second went the high priest alone once every year, not
-without
-
-blood, which he offered for himself, and for the errors of the people: 8
+without blood, which he offered for himself, and for the errors of the people: 8
 The Holy Ghost this signifying, that the way into the holiest of all was
 not yet made manifest, while as the first tabernacle was yet standing: 9
 Which was a figure for the time then present, in which were offered both
@@ -570,15 +498,9 @@ gifts and sacrifices, that could not make him that did the service
 perfect, as pertaining to the conscience; 10 Which stood only in meats
 and drinks, and divers washings, and carnal ordinances, imposed on them
 until the time of reformation. 11 But Christ being come an high priest
-of good things to come, by a greater
-
-and more perfect tabernacle, not made with hands, that is to say, not of
-this
-
-building; 12 Neither by the blood of goats and calves, but by his own
-blood he entered
-
-in once into the holy place, having obtained eternal redemption for us.
+of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of
+this building; 12 Neither by the blood of goats and calves, but by his own
+blood he entered in once into the holy place, having obtained eternal redemption for us.
 
 ### [I believe that He] 5\. **descended into hell, and on the third day he rose from the dead**
 
@@ -587,34 +509,22 @@ working with the Father, to fulfill The Father's plan, to bear our sins
 and provide a salvation for us fully and freely.*
 
 **1 Pet 2:24-25** Who his own self bare our sins in his own body on the
-tree, that we, being
-
-dead to sins, should live unto righteousness: by whose stripes ye were
+tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were
 healed. 25 For ye were as sheep going astray; but are now returned unto
-the Shepherd
-
-and Bishop of your souls.
+the Shepherd and Bishop of your souls.
 
 **1 Pet 3:18-20** For Christ also hath once suffered for sins, the just
-for the unjust, that
-
-he might bring us to God, being put to death in the flesh, but quickened
-by the
-
-Spirit: 19 By which also he went and preached unto the spirits in
+for the unjust, that he might bring us to God, being put to death in the flesh, but quickened
+by the Spirit: 19 By which also he went and preached unto the spirits in
 prison; 20 Which sometime were disobedient, when once the longsuffering
 of God waited in the days of Noah, while the ark was a preparing,
 wherein few, that is, eight souls were saved by water.
 
 **Eph 4:9** (Now that he ascended, what is it but that he also descended
-first into the
-
-lower parts of the earth?
+first into the lower parts of the earth?
 
 ***1 Cor 15:3-8*** For I delivered unto you first of all that which I
-also received, how that
-
-Christ died for our sins according to the scriptures; 4 And that he was
+also received, how that Christ died for our sins according to the scriptures; 4 And that he was
 buried, and that he rose again the third day according to the
 scriptures: 5 And that he was seen of Cephas, then of the twelve: 6
 After that, he was seen of above five hundred brethren at once; of whom
@@ -623,20 +533,11 @@ After that, he was seen of James; then of all the apostles. 8 And last
 of all he was seen of me also, as of one born out of due time.
 
 ***Luke 24:1-5*** Now upon the first day of the week, very early in the
-morning, they came
-
-unto the sepulchre, bringing the spices which they had prepared, and
-certain
-
-others with them. 2 And they found the stone rolled away from the
+morning, they came unto the sepulchre, bringing the spices which they had prepared, and
+certain others with them. 2 And they found the stone rolled away from the
 sepulchre. 3 And they entered in, and found not the body of the Lord
 Jesus. 4 And it came to pass, as they were much perplexed thereabout,
-behold, two men stood by them in shining garments:
-
-5 And as they were afraid, and bowed down their faces to the earth, they
-said
-
-unto them, Why seek ye the living among the dead?
+behold, two men stood by them in shining garments: 5 And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?
 
 ***Mark 12:18** Then come unto him the Sadducees, which say there is no
 resurrection; and they asked him, saying, 19 Master, Moses wrote unto
@@ -658,26 +559,18 @@ Jacob? 27 He is not the God of the dead, but the God of the living: ye
 therefore do greatly err.*
 
 ***2 Cor 4:14** Knowing that he which raised up the Lord Jesus shall
-raise up us also by*
-
-*Jesus, and shall present us with you.*
+raise up us also by Jesus, and shall present us with you.*
 
 ***Rom 10:9** That if thou shalt confess with thy mouth the Lord Jesus,
-and shalt believe*
-
-*in thine heart that God hath raised him from the dead, thou shalt be
+and shalt believe in thine heart that God hath raised him from the dead, thou shalt be
 saved.*
 
 ### [I believe that] 6\. **He ascended into heaven and is seated at the right hand of God the
 Father almighty**
 
 **Act 1:1-7** The former treatise have I made, O Theophilus, of all that
-Jesus began both
-
-to do and teach, 2 Until the day in which he was taken up, after that he
-through the Holy
-
-Ghost had given commandments unto the apostles whom he had chosen: 3 To
+Jesus began both to do and teach, 2 Until the day in which he was taken up, after that he
+through the Holy Ghost had given commandments unto the apostles whom he had chosen: 3 To
 whom also he shewed himself alive after his passion by many infallible
 proofs, being seen of them forty days, and speaking of the things
 pertaining to the kingdom of God: 4 And, being assembled together with
@@ -685,35 +578,21 @@ them, commanded them that they should not depart from Jerusalem, but
 wait for the promise of the Father, which, saith he, ye have heard of
 me. 5 For John truly baptized with water; but ye shall be baptized with
 the Holy Ghost not many days hence. 6 When they therefore were come
-together, they asked of him, saying, Lord,
-
-wilt thou at this time restore again the kingdom to Israel? 7 And he
+together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel? 7 And he
 said unto them, It is not for you to know the times or the seasons,
 which the Father hath put in his own power. 8 But ye shall receive
-power, after that the Holy Ghost is come upon you: and
-
-ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and
-in
-
-Samaria, and unto the uttermost part of the earth. 9 And when he had
+power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, an in Samaria, and unto the uttermost part of the earth. 9 And when he had
 spoken these things, while they beheld, he was taken up; and a cloud
-received him out of their sight.
-
-10 And while they looked stedfastly toward heaven as he went up, behold,
+received him out of their sight. 10 And while they looked stedfastly toward heaven as he went up, behold,
 two men stood by them in white apparel; 11 Which also said, Ye men of
 Galilee, why stand ye gazing up into heaven? this same Jesus, which is
-taken up from you into heaven, shall so come in like
-
-manner as ye have seen him go into heaven.
+taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.
 
 **Eph 1:20** Which he wrought in Christ, when he raised him from the
-dead, and set him
-
-at his own right hand in the heavenly places,
+dead, and set him at his own right hand in the heavenly places,
 
 **Eph 2:6** And hath raised us up together, and made us sit together in
-heavenly places\
-in Christ Jesus:
+heavenly places in Christ Jesus:
 
 ### [I believe that] 7\. **from there, He will come to judge the quick and the dead**
 
@@ -845,7 +724,7 @@ every joint supplies, according to the effective working by which every
 part does its share, causes growth of the body for the edifying of
 itself in love."
 
-Corpus Christi
+*Corpus Christi*
 
 ### [I believe in] 9b. **the Communion of the Saints**
 
@@ -882,9 +761,7 @@ saints, that is, a congregation made up only of saints. \"Christian
 church\" and \"congregation of saints\" are one and the same thing.
 
 ***Psalm 55:13-14** But it was thou, a man mine equal, my guide, and
-mine acquaintance.*
-
-*14 We took sweet counsel together, and walked unto the house of God in
+mine acquaintance. 14 We took sweet counsel together, and walked unto the house of God in
 company.*
 
 ***Psalm 133:1** Behold, how good and how pleasant it is for brethren to
