@@ -1,4 +1,4 @@
-**V0.8.0**
+**V0.8.1**
 
 *This paper presents the historic statement of beliefs that is the
 Apostles' Creed, and its biblical influence, one of each the twelve
@@ -7,9 +7,13 @@ resource that is well established across both Old Testament and New
 Testament narratives. The creed is a well-rounded representation of the
 Christian faith.*
 
-**Why Are We Here? What Are We Saying?**
+## Questions
 
-**Origins**
+#### Why Are We Here?
+#### What Are We Saying?
+#### Why Are We Saying This?
+
+## Origins
 
 *There is no evidence that the creed was written by the apostles or Paul
 himself; While what is stated in the creed is not found verbatum in Holy
@@ -22,7 +26,7 @@ which is referenced by some of the early Church Fathers. In 650,
 Augustine, a bishop in North Africa, reports that the Apostles' Creed is
 standard. Safe to say, 400-500 year time period of total development.*
 
-**Authority**
+## Authority
 
 *Historically, the Apostles' Creed is believed to be in full agreement
 with the apostolic writings, and the same churches have historically
@@ -33,7 +37,7 @@ second purpose of this paper; To provide an exegesis in terms of
 specfically, which scripture(s), and what they have to say, specifically
 for each part of the total twelve parts of the entire creed.*
 
-**Historical Relevance & Placement**
+## Historical Relevance & Placement
 
 *The Apostles' Creed begins with a simple statement of faith in God, who
 has all power and is the originator of everything. The Apostles Creed
@@ -53,7 +57,7 @@ creed is a statement of faith that Chritians, affirm, accepting the
 Triune God is an essential part of baptism from the very beginning of
 the church.*
 
-**Themes**
+## Themes
 
 *Most of the Creed is about **Jesus Christ**, the person of, and the
 defining, and definitive doctrine for, the Christian faith, entirely. It
@@ -69,7 +73,7 @@ mechanics of how salvation works and how we are saved and actually come
 to have newness of life thru being buried with Him in baptism into
 death.*
 
-**Summary**
+## Summary
 
 *Beliefs about Jesus separate Christians from everyone else. Jesus was a
 specific person, born of a woman, executed under a specific Roman
@@ -81,7 +85,7 @@ position of supreme power. He is the unique Son of God, a unique Lord
 who is above all earthly lords, and he is the Judge who will return to
 earth to determine everyone's reward.*
 
-**Trinue God**
+## Trinue God
 
 **The Trinitarian belief originates in Jesus\'s Great Commission of the
 Apostles in Matthew 28 to baptize in the name of the Father and of the
@@ -121,7 +125,8 @@ Holy Ghost: 20 Teaching them to observe all things whatsoever I have
 commanded you: and, lo, I am with you alway, even unto the end of the
 world. Amen.
 
-**Timeline --** *(historical context in italics)*
+## Timeline 
+*(historical context in italics)*
 
 **200**
 
@@ -235,18 +240,20 @@ in North Africa, reports*
 **The modern accepted text is penned by Pirminius from what is not
 modern day Switzerland**
 
-## 1. **I believe in God**
+## The Apostles' Creed
+
+#### 1. **I believe in God**
 
 **Rom 4:3** For what does the Scripture say? "Abraham *believed* God,
 and it was credited to him as righteousness."
 
 *Abraham was saved by faith; Before Moses, the law, organized religion.*
 
-## [I believe in] 1a. **the Father almighty**
+#### [I believe in] 1a. **the Father almighty**
 
 *El Shaddai, the Father Almighty*
 
-## [I believe in] 1b. **the creator of heaven and earth**
+#### [I believe in] 1b. **the creator of heaven and earth**
 
 *The story of the Creation of the World starts at the beginning of the
 bible.*
@@ -263,7 +270,7 @@ of the earth;
 
 and the heavens are the works of thine hands:
 
-## [I believe in] 2\. **Jesus Christ, His only begotton Son, our Lord,**
+#### [I believe in] 2\. **Jesus Christ, His only begotton Son, our Lord,**
 
 **1 Pet 2:21** For to this you have been called, because Christ also
 *suffered* for you, leaving you an example, so that you might follow in
@@ -335,7 +342,7 @@ Jesus from the dead dwells in you, He who raised Christ Jesus from the
 dead will also give life to your mortal bodies through His Spirit who
 dwells in you.
 
-[I believe that in He] 3\. **who was conceived by the Holy Spirit**
+#### [I believe that in He] 3\. **who was conceived by the Holy Spirit**
 
 -   Jesus declares Himself Lord of the Sabbath
 
@@ -411,7 +418,7 @@ call him Lord and God. But let us not come with any patronizing nonsense
 about his being a great moral teacher. He has not left that open to us.
 He did not intend to."
 
-## [I believe that He was] 3. **born of the Virgin Mary**
+#### [I believe that He was] 3. **born of the Virgin Mary**
 
 *Jesus was conceived via immaculate conception and was born as a son,
 that of Mary, a virgin that had not known a man, and was highly-favored
@@ -439,7 +446,7 @@ thou among
 
 women, and blessed is the fruit of thy womb.
 
-## [I believe that] 4\. **suffered under Pontius Pilate, was crucified, died, and buried**
+#### [I believe that] 4\. **suffered under Pontius Pilate, was crucified, died, and buried**
 
 *When the Jews brought Jesus to Pilate, three separate times, he said,
 "I find no fault in this man." Additionally Romans nor the Jews took His
@@ -573,7 +580,7 @@ blood he entered
 
 in once into the holy place, having obtained eternal redemption for us.
 
-## [I believe that He] 5\. **descended into hell, and on the third day he rose from the dead**
+#### [I believe that He] 5\. **descended into hell, and on the third day he rose from the dead**
 
 *\* Jesus descended but was [not seperated from the Father]{.ul}. He was
 working with the Father, to fulfill The Father's plan, to bear our sins
@@ -661,7 +668,7 @@ and shalt believe*
 *in thine heart that God hath raised him from the dead, thou shalt be
 saved.*
 
-## [I believe that] 6\. **He ascended into heaven and is seated at the right hand of God the
+#### [I believe that] 6\. **He ascended into heaven and is seated at the right hand of God the
 Father almighty**
 
 **Act 1:1-7** The former treatise have I made, O Theophilus, of all that
@@ -708,7 +715,7 @@ at his own right hand in the heavenly places,
 heavenly places\
 in Christ Jesus:
 
-## [I believe that] 7\. **from there, He will come to judge the quick and the dead**
+#### [I believe that] 7\. **from there, He will come to judge the quick and the dead**
 
 *The first people to use the word quick did not have speed in mind at
 all. The phrase \"the quick and the dead\" gives a clue about what they
@@ -742,7 +749,7 @@ quick and the dead.
 shout, with the voice of the archangel, and with the trump of God: and
 the dead in Christ shall rise first.
 
-## [I believe in] 8\. **the Holy Spirit**
+#### [I believe in] 8\. **the Holy Spirit**
 
 *Paraclete (Ancient Greek: παράκλητος, Latin: paracletus) means
 \'advocate\' or \'helper\'. In Christianity, the term paraclete most
@@ -779,7 +786,7 @@ guide you into all truth: for he shall not speak of himself; but
 whatsoever he shall hear, that shall he speak: and he will shew you
 things to come.
 
-## [I believe in] 9a. **the Holy Catholic Church**
+#### [I believe in] 9a. **the Holy Catholic Church**
 
 *The word catholic comes from the Greek phrase καθόλου katholou \'on the
 whole, according to the whole, in general\', and is a combination of the
@@ -840,7 +847,7 @@ itself in love."
 
 Corpus Christi
 
-## [I believe in] 9b. **the Communion of the Saints**
+#### [I believe in] 9b. **the Communion of the Saints**
 
 *Koinonia (/ˌkɔɪnoʊˈniːə/) is a transliterated form of the Greek word
 κοινωνία, which refers to concepts such as fellowship, joint
@@ -906,13 +913,13 @@ the communion of the body of Christ?*
 ***1 Cor 1:9** God is faithful, by whom ye were called unto the
 fellowship of his Son Jesus Christ our Lord.*
 
-## [I believe in] 10\. **the forgiveness of sins,**
+#### [I believe in] 10\. **the forgiveness of sins,**
 
 *No matter what is in our past, He is faithful to forgive if we confess.*
 
 ***1 Jhn 1:19** If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.*
 
-## [I believe in] 11\. **the resurrection of the body**
+#### [I believe in] 11\. **the resurrection of the body**
 
 Paradise, paraiso
 
@@ -922,7 +929,7 @@ Paradise, paraiso
 
 ***1 Cor 51:56** Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, 52 In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. 53 For this corruptible must put on incorruption, and this mortal must put on immortality. 54 So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. 55 O death, where is thy sting? O grave, where is thy victory? 56 The sting of death is sin; and the strength of sin is the law. 57 But thanks be to God, which giveth us the victory through our Lord Jesus Christ.*
 
-## [I believe in] 12\. **the life everlasting. Amen.**
+#### [I believe in] 12\. **the life everlasting. Amen.**
 
 ***John 3:16** For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.*
 
