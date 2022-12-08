@@ -174,9 +174,14 @@ Arius and other heresies.*
 
 *A priest named Arius presented his argument that Jesus Christ was not an eternal being, that He was created at a certain point in time by the Father. Bishops such as Alexander and the deacon Athanasius argued the opposite position: that Jesus Christ is eternal, just like the Father is. It was an argument pitting trinitarianism against monarchianism. Constantine prodded the 300 bishops in the council to make a decision by majority vote defining who Jesus Christ is. The statement of doctrine they produced was one that all of Christianity would follow and obey, called the “Nicene Creed.” This creed was upheld by the church and enforced by the Emperor. The bishops at Nicea voted to make the full deity of Christ the accepted position of the church. The Council of Nicea upheld the doctrine of Christ’s true divinity, rejecting Arius’s heresy. The council did not invent this doctrine. Rather, it only recognized what the Bible already taught.*
 
-*It is important to note that the Apostles Creed includes two phrases that
-are not found in the Nicene Creed.* First, \"He descended into hell\"
-and second, \"the communion of saints\"
+---
+
+### It is Important to Note
+*The Apostles Creed includes two phrases that are not found in the Nicene Creed.*
+- First, \"He descended into hell\"
+- Second, \"the communion of saints\"
+
+---
 
 **340** **First penned version of the Apostles' Creed**
 
