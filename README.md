@@ -1,4 +1,10 @@
-**V0.9.0**
+**V0.9.1**
+
+TODO:
+
+- [-] Add art galery 
+- [-] Import notes from small group 
+- [-] Support multiple versions for scripture references.
 
 *This paper presents the historic statement of beliefs that is the
 Apostles' Creed, and its biblical influence, one of each the twelve
@@ -817,13 +823,13 @@ Paradise, paraiso
 
 ### Sources 
 
+- Since You Asked Podcast - Jim Berrier (CGM Radio)
+
 - The Apostles' Creed - Grace Communion International
 
 - Constantine the Great and Christianity - Wikipedia
 
 - The Apostles Creed vs. Nicene Creed -- The Religion Teacher (YouTube)
-
-- Since You Asked Podcast - Jim Berrier (CGM Radio)
 
 - Mere Christianity -- C.S. Lewis
 
