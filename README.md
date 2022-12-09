@@ -433,7 +433,7 @@ that holy thing which shall be born of thee shall be called the Son of God.
 **Luk 1:42** And she spake out with a loud voice, and said, Blessed art
 thou among women, and blessed is the fruit of thy womb.
 
-## [I believe that] 4\. **suffered under Pontius Pilate, was crucified, died, and buried**
+## [I believe that He] 4\. **suffered under Pontius Pilate, was crucified, died, and buried**
 
 *When the Jews brought Jesus to Pilate, three separate times, he said,
 "I find no fault in this man." Additionally Romans nor the Jews took His
