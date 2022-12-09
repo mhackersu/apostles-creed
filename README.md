@@ -227,6 +227,22 @@ Condemmed Arianism as heresies of "foolish madmen".
 The modern accepted text is penned by Pirminius from what is not
 modern day Switzerland
 
+**1965** **Catholic–Orthodox Joint Declaration of 1965**
+
+*The Catholic–Orthodox Joint Declaration of 1965 was read out on 7 December 1965 simultaneously at a public meeting of the Second Vatican Council in Rome and at a special ceremony in Istanbul. It withdrew the exchange of excommunications between prominent ecclesiastics in the Holy See and the Ecumenical Patriarchate of Constantinople, commonly known as the Great Schism of 1054. It did not end the schism but showed a desire for greater reconciliation between the two churches, represented by Pope Paul VI and Ecumenical Patriarch Athenagoras I. The document and accompanying texts are also referred to as 'Tomos Agapes' ('Document of Love'). Many Orthodox reacted negatively to the declaration. Metropolitan Philaret of the Russian Orthodox Church Abroad openly challenged the Patriarch's efforts at rapprochement with the Roman Catholic Church, claiming that it would inevitably lead to heresy, in his 1965 epistle to the Patriarch. The monks at Mount Athos reportedly excluded Athenagoras from their daily prayers after the declaration.*
+
+The **“Great Schism”**, as historians call it, took place in 1054 over what most people today would call trivial differences. Here are some of the minor differences that destroyed the unity of the church:
+
+1. The wording of the Nicene Creed. The original form, written in 325 AD at the Council of Nicaea, said this about the Holy Spirit: “And [we believe] in the Holy Ghost, the Lord and Giver-of-Life, who proceedeth from the Father, who with the Father and the Son together is worshipped and glorified, who spake by the prophets.” In the sixth century, the Western (Roman/Latin) Church began adding the “filioque” phrase to the creed, “proceedeth from the Father AND THE SON”, thus making the creed more Trinitarian.  This does not seem like much, but it was one of the main causes of the schism. 
+
+2. Whether leavened or unleavened bread should be used in the Eucharist. The Western (Roman/Latin) Church used unleavened bread; the Orthodox Church used leavened bread.
+
+3. Whether the Bishop of Rome (Pope) had universal authority over the entire church, or whether he was one of five equal jurisdictional leaders—the Bishops of Rome, Constantinople, Alexandria, Jerusalem, and Antioch. 
+
+4. Whether yellow or gold was a proper liturgical color. Yellow or gold are not used in the Western (Roman/Latin) Church. In Orthodox Churches, it is a default color on Sundays when no liturgical color is specified. 
+
+5. How Easter Sunday was determined.  The Western (Roman/Latin) Church used the Gregorian calendar; the Orthodox Church used the Julian calendar.
+
 # The Apostles' Creed
 
 ## 1. **I believe in God**
