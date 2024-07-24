@@ -416,8 +416,9 @@ He did not intend to."
 ## [I believe that He was] 3. **born of the Virgin Mary**
 
 *Jesus was conceived via immaculate conception and was born as a son,
-that of Mary, a virgin that had not known a man, and was highly-favored
-with the Lord and among women.*
+that of Mary who's womb was blessed, who became an intercessor, and who was a
+virgin that had not known a man, and was highly-favored with the Lord 
+and among women.*
 
 **Luk 1:28** And the angel came in unto her, and said, Hail, thou that
 art highly favoured, the Lord is with thee: blessed art thou among women.
